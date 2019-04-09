@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Book Rental System</string>
+    <string name="select_an_option">Select an option:</string>
+    <string name="mm_continue">Continue</string>
+    <string name="username">Username:</string>
+    <string name="ex_mp1e">ex@mp1e</string>
+    <string name="password">Password:</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="select">--Select--</string>
+    <string name="login">login</string>
+    <string name="enter_user_information">Enter user information:</string>
+    <string name="pick_upDT">Pickup Date/Time:</string>
+    <string name="r_DT">Return Date/Time:</string>
+    <string name="find_available_books">Find Available Books</string>
+    <string name="pick_up_date">Pick-up Date</string>
+    <string name="return_date">Return Date</string>
+    <string name="reserve_bookLbl">Reserve Book</string>
+    <string name="cancel_reservation">Cancel Reservation</string>
+    <string name="admin">Admin</string>
+    <string name="book_title">Book Title:</string>
+    <string name="author">Author</string>
+    <string name="isbn">ISBN:</string>
+    <string name="fee">FEE:</string>
+    <string name="add_book">Add Book</string>
+    <string name="dismiss_log">Dismiss Log</string>
+
+    <string-array name="mm_spinOpts">
+        <item>Create Account</item>
+        <item>Place Hold</item>
+        <item>Cancel Hold</item>
+        <item>Manage System</item>
+    </string-array>
+</resources>
